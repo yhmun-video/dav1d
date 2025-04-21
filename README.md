@@ -2,6 +2,8 @@
 
 # dav1d
 
+[![Build Status](https://github.com/yhmun-video/dav1d/actions/workflows/actions.yml/badge.svg)](https://github.com/yhmun-video/dav1d)
+
 **dav1d** is an **AV1** cross-platform **d**ecoder, open-source, and focused on speed and correctness.
 
 It is now battle-tested and production-ready and can be used everywhere.
